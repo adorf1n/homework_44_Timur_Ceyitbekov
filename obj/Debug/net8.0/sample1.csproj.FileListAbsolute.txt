@@ -1,0 +1,14 @@
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\bin\Debug\net8.0\sample1.exe
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\bin\Debug\net8.0\sample1.deps.json
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\bin\Debug\net8.0\sample1.runtimeconfig.json
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\bin\Debug\net8.0\sample1.dll
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\bin\Debug\net8.0\sample1.pdb
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.AssemblyInfoInputs.cache
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.AssemblyInfo.cs
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.dll
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\refint\sample1.dll
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.pdb
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\sample1.genruntimeconfig.cache
+C:\Users\ad0rfin\Desktop\C# Курс\ДЗ44\client\sample1\obj\Debug\net8.0\ref\sample1.dll
